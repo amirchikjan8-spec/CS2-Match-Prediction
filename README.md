@@ -42,16 +42,6 @@ Random Forest
 - GitHub
 
 ### Метрики качества модели Рандом форест 
-Accuracy = 0.696
-
-Precission = 0.706
-
-Recall = 0.772
-
-
-
-
-
 
 <img width="621" height="552" alt="image" src="https://github.com/user-attachments/assets/da06d043-0e81-46d6-be03-9b0f582cae10" />
 
@@ -61,6 +51,15 @@ Recall = 0.772
 <img width="658" height="547" alt="image" src="https://github.com/user-attachments/assets/60f51d4b-f41c-4250-b66c-f1803a0519b0" />
 
 Для оценки качества классификации была построена ROC-кривая. Полученное значение свидетельствует о хорошей способности модели различать победы и поражения команд.
+
+
+<img width="611" height="567" alt="image" src="https://github.com/user-attachments/assets/d5965f7e-5b59-4031-b456-0cb9e62904be" />
+
+Accuracy = 0.696
+
+Precission = 0.706
+
+Recall = 0.772
 
 
 
