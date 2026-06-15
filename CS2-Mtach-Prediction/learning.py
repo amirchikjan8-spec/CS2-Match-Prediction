@@ -181,7 +181,7 @@ teams_state.to_csv('teams_state.csv')
 
 #Сохраняем актуальное состояние игроков
 players_state = df_players_long.sort_values('datetime').groupby('player_id').last()[['hist_adr', 'hist_kast']]
-players_state.to_csv('playeчrs_state.csv')
+players_state.to_csv('players_state.csv')
 
 print("Сохранено")
 
