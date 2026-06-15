@@ -11,7 +11,7 @@ seaborn>=0.12.0
 
 
 ---------------------------
-1. Установить себе dataset из этого же репозитория (вкладка data). Сохранить путь к датасету : <img width="487" height="52" alt="image" src="https://github.com/user-attachments/assets/68a89703-89b0-4b4b-b4d3-15f4b7042b87" />
+1. Установить себе dataset из этого же репозитория (вкладка data). Название: cs2_all_tiers_games. Сохранить путь к датасету : <img width="487" height="52" alt="image" src="https://github.com/user-attachments/assets/68a89703-89b0-4b4b-b4d3-15f4b7042b87" />
 
 2. Установить себе файлы .py : Check-list, Launch-prediction, learning
 3. Использовать знакомый интерпретатор 
