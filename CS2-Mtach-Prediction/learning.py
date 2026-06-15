@@ -7,7 +7,7 @@ from sklearn.calibration import calibration_curve
 import joblib
 
 # 1 Загрузка датасета
-df = pd.read_csv('C:/Users/Админ/Downloads/archive/cs2_all_tiers_games.csv', index_col=0)
+df = pd.read_csv("МЕСТО ДЛЯ ДАТАСЕТА", index_col=0)
 df_maps = df[df["is_total"] == False].copy()
 
 df_maps['datetime'] = pd.to_datetime(df_maps['datetime'])
